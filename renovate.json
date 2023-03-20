@@ -1,7 +1,8 @@
 {
 "packageRules": [{
 "matchPackageNames": ["xmldoc", "common-tags"],
-  "groupName": "immortal-grp"
+  "groupName": "immortal-grp",
+  "recreateClosed": true
 }],
 "lockFileMaintenance": { "enabled": true }
 }
