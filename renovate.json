@@ -6,6 +6,7 @@
 }],
 "lockFileMaintenance": { 
 "enabled": true,
-  "schedule": ["at any time"]
+  "schedule": ["at any time"],
+  "recreateClosed": "never"
  }
 }
