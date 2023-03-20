@@ -2,5 +2,6 @@
 "packageRules": [{
 "matchPackageNames": ["xmldoc", "common-tags"],
   "groupName": "immortal-grp"
-}]
+}],
+"lockFileMaintenance": { "enabled": true }
 }
