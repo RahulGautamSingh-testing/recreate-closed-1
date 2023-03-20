@@ -1,7 +1,6 @@
 {
 "packageRules": [{
-"matchPackageNames": ["xmldoc", "nodemon"],
-  "groupName": "immortality is the meaning of life",
-  "recreateClosed": "never"
+"matchPackageNames": ["xmldoc", "common-tags"],
+  "groupName": "immortal-grp"
 }]
 }
