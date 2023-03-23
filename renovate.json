@@ -8,5 +8,6 @@
 "enabled": true,
   "schedule": ["at any time"],
   "recreateClosed": "never"
- }
+ },
+  "recreateClosed": "always"
 }
