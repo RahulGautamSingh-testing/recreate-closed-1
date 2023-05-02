@@ -9,5 +9,6 @@
   "schedule": ["at any time"],
   "recreateWhen": "never"
  },
-  "configMigration": true
+  "configMigration": true,
+  "dependencyDashboard": true
 }
