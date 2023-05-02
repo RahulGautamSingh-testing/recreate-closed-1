@@ -9,6 +9,5 @@
   "schedule": ["at any time"],
   "recreateWhen": "never"
  },
-  "recreateClosed": true,
   "configMigration": true
 }
