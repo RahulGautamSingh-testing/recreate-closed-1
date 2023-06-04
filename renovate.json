@@ -1,14 +1,11 @@
 {
 "packageRules": [{
 "matchPackageNames": ["xmldoc", "common-tags"],
-  "groupName": "immortal-grp",
-  "recreateClosed": true
+  "groupName": "immortal-grp"
 }],
 "lockFileMaintenance": { 
 "enabled": true,
-  "schedule": ["at any time"],
-  "recreateWhen": "never"
+  "schedule": ["at any time"]
  },
-  "configMigration": true,
   "dependencyDashboard": true
 }
